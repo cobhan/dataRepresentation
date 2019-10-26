@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <technical>
+        <book>
+            <isbn>SBN 340 01381 8</isbn>
+            <title>Technical Cooking for the Modern World</title>
+            <author>Gordon Ramsey</author>
+        </book>
+        <book>
+            <isbn>VRP 848 42673 2</isbn>
+            <title>Technical Baking for Baking Enthusiasts</title>
+            <author>Dessie Baker</author>
+        </book>
+    </technical>
+    <cookery>
+        <book>
+            <isbn>PRO 233 12379 2</isbn>
+            <title>Dinner 2.0</title>
+            <author>Martha Stewart</author>
+        </book>
+        <book>
+            <isbn>JIU 839 32048 1</isbn>
+            <title>The Art of Shallow Frying</title>
+            <author>Eric O'Sullivan</author>
+        </book>
+    </cookery>
+</library>
